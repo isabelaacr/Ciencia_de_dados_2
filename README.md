@@ -1,1 +1,1 @@
-# Ciencia_de_dados_2
+Repositório da disciplina de Ciência de Dados 2
